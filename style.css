@@ -16,6 +16,7 @@
 }
 .logo{
     width: 400px;
+    top: 10%;
     padding: 0px 0;
     /* position: absolute; */
     cursor: pointer;
